@@ -9,6 +9,7 @@ Some of the topics we cover include:
 -   SQL
 -   HTML and CSS
 -   Javascript
+-   Git
 -   Node
 -   React
 -   How to go about getting a job in the industry
